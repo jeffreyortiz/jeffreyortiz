@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeffrey! <br/><a href="https://www.linkedin.com/in/jeffreyortizit/"> IT Specialist and Cybersecurity Professional</a>
+<h1>Hi, I'm Jeffrey! <br/><a href="https://www.linkedin.com/in/jeffreyortizit/"> IT Technician</a>
 
 <!--
 <h2>👨‍💻 Cybersecurity Projects:</h2>
