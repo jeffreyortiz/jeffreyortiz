@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeffrey! <br/><a href="https://jeffreyortiz.netlify.app/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Jeffrey! <br/>IT Technician & Cybersecurity Trainee</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
