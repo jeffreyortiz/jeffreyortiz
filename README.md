@@ -8,6 +8,7 @@
 
 - CompTIA ITF+
 - Google IT Support
+- CompTIA Security+
 
 
 <h2> 🤳 Connect with me:</h2>
