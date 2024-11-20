@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Home Lab - SOC Analyst Environment](https://github.com/jeffreyortiz/Cybersecurity-Home-Lab/)
+- [Home Lab - SOC Analyst Environment](https://github.com/jeffreyortiz/SOC-Home-Lab)
 
 <h2>📄 Certifications</h2>
 
