@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeffrey! <br/>IT Technician & Cybersecurity Trainee</a>
+<h1>Hi, I'm Jeffrey! <br/>IT Technician & Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
